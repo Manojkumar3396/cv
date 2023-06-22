@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        listView=findViewById(R.id.mlistview);
+        listView=findViewById(R.id.mlistview123);
 //        textView2= (TextView) findViewById(R.id.ders);
 //         textView3= (TextView) findViewById(R.id.dersd);
 ////        TextView  textView4= (TextView) findViewById(R.id.dersg);
